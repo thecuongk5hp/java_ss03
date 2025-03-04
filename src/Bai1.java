@@ -8,7 +8,7 @@ public class Bai1 {
         if (number == 0) {
             System.out.println(number + "la So khong phai chan cung khong phai le");
         }  else if (number % 2 == 0) {
-            System.out.println(number + "la so le");
+            System.out.println(number + "la so chan");
         } else {
             System.out.println(number + "la so le");
         }
